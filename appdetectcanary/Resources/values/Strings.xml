@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <string name="ApplicationName">Detector de Canarios</string>
+  
+  <string name="foto">Foto:</string>
+
+  <string name="openCamera">Abrir Camara</string>
+  <string name="nuevo">Analizar</string>
+  <string name="salir">Restaurar</string>
+  <string name="app_name">CameraAppDemo</string>
+</resources>
